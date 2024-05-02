@@ -56,8 +56,19 @@ Below are the images of the outputs of the comparison Box plots:
 
 After outlier removal checking the skewness of the cleaned dataframe and it shows that almost all the columns are normally distributed and we can also see the comparatively the skewness is reduced after removing the outliers.  Below are the screenshots of skewness calculated before and after removal ofoutliers.
 
-![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/166fc433-2179-44f3-bf35-e09f69bcc29b)       ![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/c3c02e47-188d-4274-8828-1ac881826640)
+![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/166fc433-2179-44f3-bf35-e09f69bcc29b)    
 
+![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/c3c02e47-188d-4274-8828-1ac881826640)
+
+##Correlation
+
+A correlation heatmap is a graphical tool that displays the correlation between the variables as a color-coded matrix.   It’s like a color chart that shows us how closely related different variables are.  Below is the image of the correlation heatmap of the cleaned dataset df2_cleaned.
+
+![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/1218eb50-6efe-45db-8adc-16f4c8d8bb4e)
+
+## Acknowledgement
+
+ I would like to express my special thanks of gratitude to my Mentor, "Ms. Swetha Sutar" for the guidance and support by giving some reference articles by which I was very much succesful in understanding and completing my project.
 
 
 
