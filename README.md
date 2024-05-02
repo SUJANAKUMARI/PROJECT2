@@ -60,7 +60,7 @@ After outlier removal checking the skewness of the cleaned dataframe and it show
 
 ![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/c3c02e47-188d-4274-8828-1ac881826640)
 
-##**Correlation**
+## Correlation
 
 A correlation heatmap is a graphical tool that displays the correlation between the variables as a color-coded matrix.   It’s like a color chart that shows us how closely related different variables are.  Below is the image of the correlation heatmap of the cleaned dataset df2_cleaned.
 
