@@ -1,8 +1,8 @@
-# Project Title
+# **Project Title**
 
 DATA ACQUISITION AND DATA WRANGLING
 
-## Dependencies
+## **Dependencies**
 
 Downloads: Jupyter Notebook. 
 
@@ -13,7 +13,7 @@ Libraries to be imported:
 3.  Matplotlib.
 4.  SNS.
 
-## Features
+## **Features**
 
 DATA ACQUISITION:  Identify and obtain access to the data within your sources.
 
@@ -24,7 +24,7 @@ DATA WRANGLING:  Data wrangling deals with the below functionalities:
 4. Filtering data:  Sometimes datasets are comprised of unwanted rows and columns which are required to be removed or filtered.
 5. Other:  After dealing with the raw dataset with the above functionalities we get an efficient dataset as per our requirements and then it can used for a required purpose like data analysing, machine learning, data visualisation, model training, etc.
 
-## Methodology
+## **Methodology**
 
 LOADING THE DATASETS (i.e.,  Dataset_1, Dataset_2 and Dataset_3) 
 
@@ -34,8 +34,8 @@ TECHNICAL SKILLS INVOLVED:  Data Acquisition and Data Wrangling of the dataset_1
 
 PLATFORM:  Codes are executed and run in Jupyter Notebook.
 
-## FINAL OUTPUT
-
+**## FINAL OUTPUT
+**
 The comparison box plots for each columns in which the outliers were present to check to what extent the outliers were removed through the Interquartile range method.
 
 Below are the images of the outputs of the comparison Box plots:
@@ -66,7 +66,7 @@ A correlation heatmap is a graphical tool that displays the correlation between 
 
 ![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/1218eb50-6efe-45db-8adc-16f4c8d8bb4e)
 
-## Acknowledgement
+## **Acknowledgement**
 
  I would like to express my special thanks of gratitude to my Mentor, "Ms. Swetha Sutar" for the guidance and support by giving some reference articles by which I was very much succesful in understanding and completing my project.
 
