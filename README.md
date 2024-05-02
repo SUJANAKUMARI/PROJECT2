@@ -42,6 +42,22 @@ Below are the images of the outputs of the comparison Box plots:
 
 ![download (5)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/d8b1ce14-b665-4d7d-93d3-0b8acb1ce4c4)
 
+![download (4)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/8cc78ec7-9a6d-49ef-a469-1df1841a539c)
+
+![download (3)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/a02f9508-f0c7-44ef-8be4-0eb7d06f74ae)
+
+![download (2)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/79c972e6-0614-4273-baa5-31ac1dc27b95)
+
+![download (1)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/00597080-fd96-4989-8050-fae3f45f7949)
+
+![download](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/0aee021b-5c2d-4153-85fe-29e3b784f4c4)
+
+## Skewness
+
+After outlier removal checking the skewness of the cleaned dataframe and it shows that almost all the columns are normally distributed and we can also see the comparatively the skewness is reduced after removing the outliers.  Below are the screenshots of skewness calculated before and after removal ofoutliers.
+
+![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/77fd5dc7-f61e-4e79-87f1-eaea8eebacba)
+
 
 
 
