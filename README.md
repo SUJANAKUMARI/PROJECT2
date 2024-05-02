@@ -40,3 +40,10 @@ The comparison box plots for each columns in which the outliers were present to 
 
 Below are the images of the outputs of the comparison Box plots:
 
+![download (5)](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/d8b1ce14-b665-4d7d-93d3-0b8acb1ce4c4)
+
+
+
+
+
+
