@@ -56,7 +56,8 @@ Below are the images of the outputs of the comparison Box plots:
 
 After outlier removal checking the skewness of the cleaned dataframe and it shows that almost all the columns are normally distributed and we can also see the comparatively the skewness is reduced after removing the outliers.  Below are the screenshots of skewness calculated before and after removal ofoutliers.
 
-![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/77fd5dc7-f61e-4e79-87f1-eaea8eebacba)
+![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/166fc433-2179-44f3-bf35-e09f69bcc29b)       ![image](https://github.com/SUJANAKUMARI/PROJECT2/assets/162315739/c3c02e47-188d-4274-8828-1ac881826640)
+
 
 
 
